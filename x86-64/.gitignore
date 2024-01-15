@@ -1,0 +1,5 @@
+.cache/
+bin/
+BC_Bitsliced-dump.bin
+MaskedComparison.bin
+compile_commands.json
